@@ -30,21 +30,3 @@ def mutate (a_list):
 
 mutate({1, 2, 3, 5, 8, 13})
 
-
-
-# --------------
-
-"""TAKE AWAYS:
-1. Take a Brake
-2. Ask a Friend
-3. Run the program Often
-4. Ask on StackOverflow
-
-
-"""
-
-
-
-
-
-# https://replit.com/@appbrewery/higher-lower-final-debugged?v=1#game_data.py
